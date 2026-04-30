@@ -40,6 +40,22 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ## 🏗️ Architecture & Technologies
 
+## 🏗️ Architecture Evolution
+
+### Initial Design
+
+![Initial Architecture](images/03-initial-architecture-diagram.png)
+
+### Improved Design (AI-Assisted Visualization)
+
+![AI Architecture](images/04-ai-generated-architecture.png)
+
+### Cost Optimization Model
+
+![Cost Saving Architecture](images/05-cost-saving-architecture.png)
+
+---
+
 ### 🔐 Core Infrastructure
 
 - **Firewall/Router**: pfSense  
@@ -74,6 +90,50 @@ The initial assignment was to support basic ICT improvements. However, the proje
 - Data redundancy (RAID/mirroring)
 - Internal-only communication systems
 - Backup and recovery design
+
+---
+
+## 🛠️ Real Implementation (Field Work)
+
+### Network Setup & Deployment
+
+![Crimping Network Cable](images/01-network-setup-crimping.jpg)
+![Rack Server Setup](images/02-rack-server-setup.jpg)
+
+This shows the physical implementation of the infrastructure, including cable crimping, network setup, and server deployment using repurposed hardware.
+
+---
+
+## 💻 Systems Implemented
+
+### 📚 Library Management System
+![Library System](images/06-library-system.png)
+
+---
+
+### ☁️ Local Cloud Backup System
+![Cloud Backup](images/07-local-cloud-backup.png)
+
+---
+
+### 📧 Internal Email System
+
+**Login Page**
+![Email Login](images/08-email-login.png)
+
+**Inbox**
+![Email Inbox](images/09-email-inbox.png)
+
+---
+
+### 👥 HR Management System
+
+**Login Page**
+![HR Login](images/10-hr-login.png)
+
+**Dashboard / Update Page**
+![HR Dashboard](images/11-hr-dashboard.png)
+
 
 ---
 
@@ -139,6 +199,12 @@ If you replicate or improve this setup:
 - Fork the repo  
 - Share your version  
 - Contribute improvements  
+
+---
+
+## 🔐 Data Protection Notice
+
+Sensitive internal documents, configurations, and user data have been excluded from this repository to comply with organizational data protection policies and security best practices.
 
 ---
 
