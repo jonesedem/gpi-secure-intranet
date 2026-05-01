@@ -1,11 +1,11 @@
 # Lessons Learned: GPI Intranet Project
 
-## 📌 Overview
+## Overview
 This document captures key insights, challenges, and recommendations from the implementation of the GPI intranet system.
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
 ### 1. Funding Delays
 - Delayed procurement of equipment
@@ -21,7 +21,7 @@ This document captures key insights, challenges, and recommendations from the im
 
 ---
 
-## 💡 Key Lessons
+## Key Lessons
 
 ### 1. Design Before Implementation
 A clear architecture reduces future issues.
@@ -48,7 +48,7 @@ Enterprise-level systems can be built at low cost.
 
 ---
 
-## 🚀 What I Would Do Differently Today
+## What I Would Do Differently Today
 
 - Use virtualization (Proxmox)
 - Deploy cloud backup (Azure/AWS)
@@ -57,6 +57,6 @@ Enterprise-level systems can be built at low cost.
 
 ---
 
-## 🎯 Key Takeaway
+## Key Takeaway
 
 With the right approach, **low-cost infrastructure can deliver enterprise-grade results**, especially in resource-constrained environments.

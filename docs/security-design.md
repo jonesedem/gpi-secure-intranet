@@ -1,11 +1,11 @@
 # Security Design: GPI Intranet Infrastructure
 
-## 📌 Overview
+## Overview
 Security was a core consideration in the design and implementation of the GPI intranet system, ensuring data confidentiality, integrity, and availability.
 
 ---
 
-## 🧱 Security Architecture
+## Security Architecture
 
 The system was designed using a layered approach:
 
@@ -16,7 +16,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 🔐 Perimeter Security
+## Perimeter Security
 
 ### pfSense Firewall:
 - Network traffic filtering
@@ -39,7 +39,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 👥 Access Control
+## Access Control
 
 - User authentication via domain server
 - Role-based access to systems
@@ -47,7 +47,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 💾 Data Security
+## Data Security
 
 - Centralized storage (NAS)
 - RAID/mirroring for redundancy
@@ -55,7 +55,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 🔄 Backup & Recovery
+## Backup & Recovery
 
 - Regular backup configuration
 - Redundant storage using ZFS
@@ -63,7 +63,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 📧 Communication Security
+## Communication Security
 
 - Internal email system (isolated from internet)
 - Reduced exposure to external threats
@@ -78,7 +78,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 🔧 Recommended Improvements (Modern)
+## Recommended Improvements (Modern)
 
 - Implement Zero Trust Architecture
 - Deploy SIEM (Azure Sentinel / Splunk)
@@ -88,7 +88,7 @@ The system was designed using a layered approach:
 
 ---
 
-## 🎯 Security Outcome
+## Security Outcome
 
 - Reduced exposure to external threats
 - Improved data protection

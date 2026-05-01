@@ -1,11 +1,11 @@
 # Implementation Guide: GPI Secure Intranet
 
-## 📌 Overview
+## Overview
 This document outlines the step-by-step implementation of a low-cost, secure intranet infrastructure using open-source tools and repurposed hardware.
 
 ---
 
-## 🧱 Phase 1: Planning & Requirements
+## Phase 1: Planning & Requirements
 
 ### Objectives:
 - Secure internal communication
@@ -31,7 +31,7 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## 🔐 Phase 3: Firewall Configuration (pfSense)
+## Phase 3: Firewall Configuration (pfSense)
 
 ### Installation:
 - Installed pfSense on repurposed desktop
@@ -45,7 +45,7 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## 🖥️ Phase 4: Server Deployment
+## Phase 4: Server Deployment
 
 ### Application Server:
 - Installed SME Server / NethServer
@@ -61,7 +61,7 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## 💾 Phase 5: Storage Setup (NAS)
+## Phase 5: Storage Setup (NAS)
 
 ### Installed:
 - FreeNAS (TrueNAS CORE)
@@ -74,7 +74,7 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## ☁️ Phase 6: Internal Cloud & File Sharing
+## Phase 6: Internal Cloud & File Sharing
 
 - Created shared directories
 - Configured user access levels
@@ -82,14 +82,14 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## 📧 Phase 7: Internal Communication
+## Phase 7: Internal Communication
 
 - Configured internal email system
 - Enabled communication without internet
 
 ---
 
-## 👥 Phase 8: User Setup & Training
+## Phase 8: User Setup & Training
 
 - Created user accounts
 - Assigned permissions
@@ -98,14 +98,14 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## 🔄 Phase 9: Backup & Redundancy
+## Phase 9: Backup & Redundancy
 
 - Configured scheduled backups
 - Enabled storage redundancy (RAID)
 
 ---
 
-## 🚀 Deployment Outcome
+## Deployment Outcome
 
 - Fully functional intranet
 - Secure file storage system
@@ -114,7 +114,7 @@ This document outlines the step-by-step implementation of a low-cost, secure int
 
 ---
 
-## 🔧 Future Improvements
+## Future Improvements
 
 - Cloud integration (Azure/AWS)
 - VPN for remote access
