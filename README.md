@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 In 2017, I served as **ICT Officer** at **Girls’ Power Initiative (GPI), Calabar**, under the supervision of **Eric Hamisi (CUSO International ICT Advisor)**.
 
@@ -12,7 +12,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Build a secure internal network (wired + wireless)
 - Implement centralized storage and backup systems
@@ -22,7 +22,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ---
 
-## 🚀 What Was Delivered
+##  What Was Delivered
 
 - 🌐 Official Website: https://gpicalabar.org  
 - 🖧 Full Intranet (LAN + WiFi)
@@ -40,7 +40,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ## 🏗️ Architecture & Technologies
 
-## 🏗️ Architecture Evolution
+##  Architecture Evolution
 
 ### Initial Design
 
@@ -56,7 +56,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ---
 
-### 🔐 Core Infrastructure
+###  Core Infrastructure
 
 - **Firewall/Router**: pfSense  
   - Firewall, VPN, DHCP, DNS, traffic shaping  
@@ -72,7 +72,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ---
 
-## 💰 Cost Optimization
+##  Cost Optimization
 
 - Used refurbished systems instead of new servers  
 - Eliminated proprietary licenses  
@@ -82,7 +82,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ---
 
-## 🔐 Security Implementation
+##  Security Implementation
 
 - Firewall protection (pfSense)
 - Network segmentation
@@ -93,7 +93,7 @@ The initial assignment was to support basic ICT improvements. However, the proje
 
 ---
 
-## 🛠️ Real Implementation (Field Work)
+##  Real Implementation (Field Work)
 
 ### Network Setup & Deployment
 
@@ -104,19 +104,19 @@ This shows the physical implementation of the infrastructure, including cable cr
 
 ---
 
-## 💻 Systems Implemented
+##  Systems Implemented
 
-### 📚 Library Management System
+### Library Management System
 ![Library System](images/06-library-system.png)
 
 ---
 
-### ☁️ Local Cloud Backup System
+###  Local Cloud Backup System
 ![Cloud Backup](images/07-local-cloud-backup.png)
 
 ---
 
-### 📧 Internal Email System
+###  Internal Email System
 
 **Login Page**
 ![Email Login](images/08-email-login.png)
@@ -126,7 +126,7 @@ This shows the physical implementation of the infrastructure, including cable cr
 
 ---
 
-### 👥 HR Management System
+###  HR Management System
 
 **Login Page**
 ![HR Login](images/10-hr-login.png)
@@ -137,7 +137,7 @@ This shows the physical implementation of the infrastructure, including cable cr
 
 ---
 
-## 📊 Impact
+##  Impact
 
 - Improved internal communication
 - Centralized and secure data storage
@@ -162,7 +162,7 @@ This shows the physical implementation of the infrastructure, including cable cr
 
 ---
 
-## 🔄 Modern Upgrade Path (2026)
+##  Modern Upgrade Path (2026)
 
 For organizations replicating this today:
 
@@ -174,7 +174,7 @@ For organizations replicating this today:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - `docs/` → Security Design, Implementation Guide, Modern Implementation Guide, Lessons Learned, User Manual generic
 - `images/` → Architecture diagrams  
